@@ -1,0 +1,20 @@
+{
+  "name": "intech-additive-solutions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "linkedlist": "node linked-list/find-middle.js",
+    "rainwatertrap": "node rainwater-trap/trap-water.js",
+    "consecutivesum": "node consecutive-sum/consecutiveSum.js",
+    "matrixmultiplication": "node matrix-multiplication/multiplyMatrix.js",
+    "primeinpi": "node prime-in-pi/primeInPi.js",
+    "rectangleintersect": "node rectangle-intersect/checkIntersection.js",
+    "compress": "node string-compression/compressor.js",
+    "secondcompress": "node string-compression/second-compressor.js",
+    "decompress": "node string-compression/decompressor.js",
+    "test": "node string-compression/test.js"  
+  },
+  "author": "kuldeep",
+  "license": "ISC"
+}
