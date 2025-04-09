@@ -6,7 +6,7 @@ git clone https://github.com/username/repo-name.git
 cd repo-name
 npm install
 
-To run all test cases together:
+1..../*To run all test cases together:*/
 npm run test
 This will execute and validate the logic for:
 
@@ -33,7 +33,7 @@ Example: a2b1c5a3 → abc5a3.
 
 
 
-**Find Middle Element in Linked List
+2....**Find Middle Element in Linked List
 **Run Command:
 npm run linkedlist
 File: linked-list/find-middle.js
@@ -58,7 +58,7 @@ All edge cases are handled, including large counts like a20b20c1a4
 
 
 
-**Trapping Rainwater
+3....**Trapping Rainwater
 **Run Command:
 
 npm run rainwatertrap
@@ -75,7 +75,7 @@ Linear time and space solution.
 
 
 
-**Sum of Consecutive Natural Numbers
+4....**Sum of Consecutive Natural Numbers
 **Run Command:
 npm run consecutivesum
 File: consecutive-sum/consecutiveSum.js
@@ -91,7 +91,7 @@ Optimized loop based solution.
 
 
 
-Largest 5-Digit Prime in First 100 Digits of Pi
+5....Largest 5-Digit Prime in First 100 Digits of Pi
 Run Command:
 
 npm run primeinpi
@@ -108,7 +108,7 @@ Tracked and returned the largest valid prime found.
 
 
 
-**Rectangle Intersection
+6....**Rectangle Intersection
 **Run Command:
 npm run rectangleintersect
 File: rectangle-intersect/checkIntersection.js
@@ -137,7 +137,7 @@ Showcased interest in DSA and logical thinking.
 
 
 
-** Matrix Multiplication
+7....** Matrix Multiplication
 **Run Command:
 npm run matrixmultiplication
 File: matrix-multiplication/multiplyMatrix.js
